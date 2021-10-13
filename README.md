@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**thetechnetiumguy/thetechnetiumguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 My name is Shridhar
 
-Here are some ideas to get you started:
+Hi, I'm Shridhar Khare!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pronouns: (He/Him) 
+
+## 🏫 Academics
+🏫 I'm a High School Junior studying at MSAS, Panvel.
+
+💻 I have taken Computer Science as an Elective Subject.
+
+🤔 I’m looking for help with preparation for Engineering Entrance exams.
+
+## 🎨 Activities 
+ 
+- 🌱 I’m currently learning Front End Web Development. 
+
+- 🎮 I got an opportunity to own and moderate a STEM based Discord Server.
+
+## 📲 Reach me on 
+
+On my Discord: The Technetium Guy#4937
+
+
+
+
