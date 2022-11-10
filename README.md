@@ -6,7 +6,7 @@ Hi, I'm Shridhar Khare!
 Pronouns: (He/Him) 
 
 ## 🏫 Academics
-🏫 I'm a High School Junior studying at MSAS, Panvel.
+🏫 I'm a High School Senior studying at MSAS, Panvel.
 
 💻 I have taken Computer Science as an Elective Subject.
 
