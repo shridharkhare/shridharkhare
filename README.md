@@ -18,6 +18,12 @@ Pronouns: (He/Him)
 
 - 🎮 I got an opportunity to own and moderate a STEM based Discord Server.
 
+## 📊 Stats
+
+![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechnetiumguy&count_private=true&show_icons=true&theme=solarized-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetechnetiumguy&layout=compact)](https://github.com/thetechnetiumguy/github-readme-stats)
+
 ## 📲 Reach me on 
 
 On my Discord: The Technetium Guy#4937
