@@ -20,9 +20,9 @@ Pronouns: (He/Him)
 
 ## 📊 Stats
 
-![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechnetiumguy&count_private=true&show_icons=true&theme=solarized-dark)
+![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechnetiumguy&count_private=true&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetechnetiumguy&layout=compact)](https://github.com/thetechnetiumguy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetechnetiumguy&layout=compact&theme=merko)](https://github.com/thetechnetiumguy/github-readme-stats)
 
 ## 📲 Reach me on 
 
