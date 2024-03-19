@@ -6,17 +6,15 @@ Hi, I'm Shridhar Khare!
 Pronouns: (He/Him) 
 
 ## 🏫 Academics
-🏫 I'm a High School Senior studying at MSAS, Panvel.
+🏫 I'm a First Year Student studying at Pillai College Of Engineering, New Panvel.
 
-💻 I have taken Computer Science as an Elective Subject.
+💻 I am pursuing Bachelor Of Technology in Computer Engineering.
 
-🤔 I’m looking for help with preparation for Engineering Entrance exams.
+🤔 I’m looking for help with Web Development and DSA.
 
 ## 🎨 Activities 
  
 - 🌱 I’m currently learning Front End Web Development. 
-
-- 🎮 I got an opportunity to own and moderate a STEM based Discord Server.
 
 ## 📊 Stats
 
@@ -26,7 +24,7 @@ Pronouns: (He/Him)
 
 ## 📲 Reach me on 
 
-On my Discord: The Technetium Guy#4937
+On my Discord: thetechnetiumguy
 
 
 
