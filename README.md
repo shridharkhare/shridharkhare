@@ -29,9 +29,7 @@ I believe in thriving with like-minded people who are interested in learning new
 ## Where can you reach me?
 
 &nbsp;&nbsp;
-[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shridhar-khare/)&nbsp;&nbsp;&nbsp;&nbsp;  
-[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://x.com/KhareShridhar)&nbsp;&nbsp;&nbsp;&nbsp;  
-[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='mail' height='40'>](mailto:kshreedhar01622@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shridhar-khare/)&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg' alt='twitter' height='40'>](https://x.com/KhareShridhar)&nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg' alt='mail' height='40'>](mailto:kshreedhar01622@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;
 
 <sub>Note: The Mail link only works if you have configured how your browser handles `mailto` requests.</sub>
 
