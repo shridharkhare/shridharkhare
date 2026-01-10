@@ -19,12 +19,6 @@ I believe in thriving with like-minded people who are interested in learning new
 - 🌱 I’m currently learning Back-End Web Development.
  
 - 🌱 Working on a Python project for academics, exploring Backend Frameworks and SQL Databases.
-  
-## Stats
-
-![Shridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shridharkhare&count_private=true&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shridharkhare&layout=compact&theme=merko)](https://github.com/shridharkhare/github-readme-stats)
 
 ## Where can you reach me?
 
